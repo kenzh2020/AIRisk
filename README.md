@@ -1,1 +1,1 @@
-# AI risk management & Automation
+# AI risk - Governance of "guardrails" in Responsible AI
